@@ -20,7 +20,7 @@
             </div>
           </li>
           <li>
-            <span><sup><?php the_field('cifrao_preco_2'); ?></sup>
+            <span><sup><?php the_field('cifrao_preco'); ?></sup>
               <?php the_field('preco_produto_2'); ?>
             </span>
             <div>
